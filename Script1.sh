@@ -3,4 +3,4 @@ echo "I am from Young minds"
 echo "We are from batch-26 and learning DevOps"
 echo "hello,we are learning devops"
 echo "i am adding this line in swati"
-
+echo "we are adding data in branch 2"
