@@ -9,3 +9,4 @@ number_two () {
 # Calling function one.
 number_one
 echo "hello.everyone"
+echo " hi"
